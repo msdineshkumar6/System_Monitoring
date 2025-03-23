@@ -1,5 +1,3 @@
-# System_Monitoring
-
 # System Resource Monitoring with Mail Alerts
 
 # Overview
